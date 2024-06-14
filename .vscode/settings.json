@@ -1,0 +1,14 @@
+{
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "liveServer.settings.donotShowInfoMsg": true,
+    "liveServer.settings.ChromeDebuggingAttachment": false,
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "notebook.kernelProviderAssociations": [
+    ],
+    "files.associations":{
+        "*.vue": "html"
+    }
+
+}
